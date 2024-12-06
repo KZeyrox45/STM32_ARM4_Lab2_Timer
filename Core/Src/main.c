@@ -56,8 +56,6 @@ void system_init();
 void test_LedDebug();
 void test_LedY0();
 void test_LedY1();
-void test_7seg();
-void traffic_light();
 /* USER CODE END PFP */
 
 /* Private user code ---------------------------------------------------------*/
